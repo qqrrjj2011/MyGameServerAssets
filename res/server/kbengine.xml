@@ -62,11 +62,11 @@
 	    <databaseInterfaces>
 	    	<default>
 			<host> localhost</host> 
-			<databaseName> kbe </databaseName> 
+			<databaseName> tuzi </databaseName> 
 
 			<auth>  
 				<username> kbe </username>                                    <!-- Type: String -->
-				<password> kbe </password>                                    <!-- Type: String -->
+				<password> 2012 </password>                                    <!-- Type: String -->
 			</auth>
 		</default>
 	    </databaseInterfaces>
